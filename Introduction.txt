@@ -1,7 +1,6 @@
 # Hack K-State 2016 : Data Science For Social Good 
 ### When : Nov 11-13, 2016
 ### Where : Engineering Hall Kansas State University Manhattan, Kansas
-<img src="./images/fourth-degree-friends2.png" width="600">
 
 ## About
 Hack K-state kicks off November 11'16 giving 48 hours to anyone interested in coding a chance to display their skills and creativity. The event is meant to bring together engineers, business students, designers, entrepreneurs etc from different disciplines. Starting 2016, Hack Kstate includes Data Science for Social Good(DSSG) track. DSSG uses analysis and visualization of data on topics such as public health, sustainable urban planning, environmental protection, disaster response, crime prevention, education, transportation, governance, commerce, social justice etc. that impact the lives of local community. This is the `first ever data science hackathon` organized at Kansas State University. 
