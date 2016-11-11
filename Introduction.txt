@@ -143,7 +143,7 @@ Please visit https://hackkstate.org/ for any questions or concers.
 - Joseph Dasenbrock, ( Treasurer, ACM - SIGAI)
 - Derek Christensen, (Social Media Coordinator, ACM- SIGAI)
 
-#### Acknowledgements
+### Acknowledgements
 * The original dataset for Challenge 1 are found here (http://rochackhealth.com/healthcare-deep-data-dive-2016/2016_chal1/)
 * The original dataset for Challenge 2 are found here (http://rochackhealth.com/challenge-3-readme-docgraph-provider-community-identification/)
 * The original problem and dataset for Challenge 3 are found here     
@@ -151,3 +151,9 @@ Please visit https://hackkstate.org/ for any questions or concers.
     - (https://www.kaggle.com/five-thirty-eight/2016-election-polls)
     - (https://www.kaggle.com/zillow/median-listing-price-1-bedroom)
 
+### Resources:
+Below are some great resources to start with if you are beginner:
+1. CS109 Data Science : http://cs109.github.io/2015/pages/videos.html
+2. Analytics Vidhya: https://www.analyticsvidhya.com/blog/2016/09/how-to-prepare-for-your-first-data-science-hackathon-in-less-than-2-weeks/
+3. Dataquest Blogs: http://www.dataquest.io/blog
+4. Kaggle : https://www.kaggle.com/wiki/Tutorials
